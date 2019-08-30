@@ -1,5 +1,5 @@
 # :sparkles: Language Tutorial
-[![JAVA](https://img.shields.io/badge/JAVA-v11.0.4-red)]
+![JAVA](https://img.shields.io/badge/JAVA-v11.0.4-red)
 
 ## :rocket: Java install & version check
 
@@ -13,10 +13,10 @@ javac -version
 
 ## :wrench: Setting java environment variable
 
-Using text editor, open `.profile` at `home/user-name` directory, add the following line (highligted word should be changed as own java version)
+Using text editor, open `.profile` at `home/user-name` directory, add the following line (java version should be changed as own java version)
 
 ```bash
-JAVA_HOME="/usr/lib/jvm/`java-11-openjdk-amd64`/bin/"
+JAVA_HOME="/usr/lib/jvm/java-11-openjdk-amd64/bin/"
 ```
 ```shell
 source .profile
