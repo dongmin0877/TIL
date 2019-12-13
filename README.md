@@ -3,6 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-v11.0.4-red)
 ![Python](https://img.shields.io/badge/Python-v3.2.7-blue)
 
+:pencil: Language Tutorial repository is a collection of codes that i've practiced while reading.
 
 ## :sparkles: Move to
 
