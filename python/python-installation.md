@@ -1,6 +1,5 @@
-# Python practice
+# Python installation
 
-![Python](https://img.shields.io/badge/Python-v3.2.7-blue)
 
 ## :rocket: Python install (Mac)
 
@@ -26,9 +25,3 @@ $ sudo apt-get install python3
 ```shell
 $ python3 --version
 ```
-
-## :sparkles: Move to
-
-* [Java](https://github.com/tigermeal/language-tutorial/tree/master/java)
-* [Home](https://github.com/tigermeal/language-tutorial/tree/master) 
-

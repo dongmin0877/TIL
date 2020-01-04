@@ -1,3 +1,6 @@
+# First-class citizen
+
+```python
 # Set function
 def answer():
     print("Answer!!")
@@ -23,3 +26,5 @@ run_something(answer)
 run_something_with_args(add_args, 10, 100)
 
 run_with_positional_args(sum_args, 1, 2, 3, 4)
+
+```
