@@ -1,6 +1,4 @@
-# Java practice
-
-![Java](https://img.shields.io/badge/Java-v11.0.4-red)
+# Java installation
 
 ## :rocket: Java install & version check
 
@@ -25,8 +23,3 @@ $ source .profile
 $ echo $JAVA_HOME 
 #Check JAVA_HOME variable is declared at your enviroment
 ```
-
-## :sparkles: Move to
-
-* [Python](https://github.com/tigermeal/language-tutorial/tree/master/python)
-* [Home](https://github.com/tigermeal/language-tutorial/tree/master) 
