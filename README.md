@@ -22,3 +22,8 @@
 
 - [Python installation](python/python-installation.md)
 - [First-class citizen](python/first-class-citizen.md)
+
+### Algorithms
+
+- [Euclidean Algorithm](algorithms/euclidean-algorithm.md)
+- [Binary Search](algorithms/binary-search.md)
