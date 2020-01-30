@@ -10,7 +10,8 @@
 ## :sparkles: Categories
 
 * [Java](#java)
-* [Python](#python) 
+* [Python](#python)
+* [AWS](#aws)
 
 ---
 
@@ -27,3 +28,7 @@
 
 - [Euclidean Algorithm](algorithms/euclidean-algorithm.md)
 - [Binary Search](algorithms/binary-search.md)
+
+### AWS
+
+- [Django Deploy using ec2](aws/django-deploy.md)
