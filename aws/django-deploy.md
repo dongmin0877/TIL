@@ -68,11 +68,13 @@ Check your instance's security group name.
 Move to security group tap.
 
 Add Inbound rules. (Check group name)
+
+
 | Type | Protocol | Port Range | Source |
-| ----- | ----- | ----- | ----- |
-| SSH | TCP | 22  | custom | 0.0.0.0/0 |
-| HTTP | TCP | 80  | Anywhere | 0.0.0.0/0, ::/0 |
-| Cutstom | TCP | 8000 | Anywhere | 0.0.0.0/0, ::/0 |
+| --- | --- | --- | --- |
+| SSH | TCP | 22  | custom 0.0.0.0/0 |
+| HTTP | TCP | 80  | Anywhere 0.0.0.0/0, ::/0 |
+| Cutstom | TCP | 8000 | Anywhere 0.0.0.0/0, ::/0 |
 
 Refresh your puplic aws dns.
 
