@@ -12,6 +12,7 @@
 * [Java](#java)
 * [Python](#python)
 * [AWS](#aws)
+* [DATABASE](#database)
 
 ---
 
@@ -32,3 +33,7 @@
 ### AWS
 
 - [Django Deploy using ec2](aws/django-deploy.md)
+
+### DATABASE
+
+- [utf8 encoding error solution](database/mysql-encoding-issue.md)
