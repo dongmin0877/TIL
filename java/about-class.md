@@ -38,11 +38,11 @@ public class Car {
   
 // Method
   public void info() {
-		System.out.println(" --- info --- ");
-		System.out.println(" color : " + color);
-		System.out.println(" gear : " + gear);
-		System.out.println(" price : " + price);
-	}
+    System.out.println(" --- info --- ");
+    System.out.println(" color : " + color);
+    System.out.println(" gear : " + gear);
+    System.out.println(" price : " + price);
+  }
 }
 ```
 
@@ -71,7 +71,7 @@ myCar.stop();
 myCar.info();
 ```
 
-## class overloading :memo:
+## Class overloading :memo:
 
 If constructor or method receive different parameters (number of parameters), you can use overloading. 
 
