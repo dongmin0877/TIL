@@ -19,6 +19,7 @@
 ### Java
 
 - [Java installation](java/java-installation.md)
+- [About Class](java/about-class.md)
 
 ### Python
 
