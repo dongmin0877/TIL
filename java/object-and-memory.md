@@ -19,15 +19,15 @@ public class ObjectClass {
 ...
 
 public class MainClass {
-	public static void main(String[] args) {
-		ObjectClass obj1 = new ObjectClass();
-		ObjectClass obj2 = new ObjectClass();
-		ObjectClass obj3 = new ObjectClass();
-		
-		System.out.println("obj 1 = " + obj1);
-		System.out.println("obj 2 = " + obj2);
-		System.out.println("obj 3 = " + obj3);
-	}
+  public static void main(String[] args) {
+    ObjectClass obj1 = new ObjectClass();
+    ObjectClass obj2 = new ObjectClass();
+    ObjectClass obj3 = new ObjectClass();
+
+    System.out.println("obj 1 = " + obj1);
+    System.out.println("obj 2 = " + obj2);
+    System.out.println("obj 3 = " + obj3);
+  }
 }
 
 // Result
