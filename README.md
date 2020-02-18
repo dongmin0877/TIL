@@ -21,6 +21,7 @@
 - [Java installation](java/java-installation.md)
 - [About Class](java/about-class.md)
 - [About Method](java/about-method.md)
+- [Object and Memory](java/object-and-memory.md)
 
 ### Python
 
