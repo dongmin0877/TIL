@@ -20,6 +20,7 @@
 
 - [Java installation](java/java-installation.md)
 - [About Class](java/about-class.md)
+- [About Method](java/about-method.md)
 
 ### Python
 
