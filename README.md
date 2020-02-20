@@ -22,6 +22,7 @@
 - [About Class](java/about-class.md)
 - [About Method](java/about-method.md)
 - [Object and Memory](java/object-and-memory.md)
+- [Constructor, Destructor and this keyword](java/constructor-destructor-this-keyword.md)
 
 ### Python
 
