@@ -23,6 +23,7 @@
 - [About Method](java/about-method.md)
 - [Object and Memory](java/object-and-memory.md)
 - [Constructor, Destructor and this keyword](java/constructor-destructor-this-keyword.md)
+- [Package and Static keyword](java/package-and-static-keyword.md)
 
 ### Python
 
