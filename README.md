@@ -25,6 +25,7 @@
 - [Constructor, Destructor and this keyword](java/constructor-destructor-this-keyword.md)
 - [Package and Static keyword](java/package-and-static-keyword.md)
 - [Private, Setter and Getter](java/private-setter-and-getter.md)
+- [About Inheritance](java/about-inheritance.md)
 
 ### Python
 
