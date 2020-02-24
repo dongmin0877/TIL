@@ -12,7 +12,7 @@ Inheritance is a mechanism in which one object acquires all the properties and f
 
 ## About terms of inheritance
 
-- [Class](java/about-class.md): group of objects
+- [Class](/java/about-class.md): group of objects
 
 - Sub Class / Child Class: Subclass is a class that inherits the other class.
 
