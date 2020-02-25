@@ -96,5 +96,7 @@ public class ChildClass extends ParentClass {
     System.out.println("ParentClass's open year : " + super.openYear);
   }
 }
-
+// Result
+// ChildClass's open year : 2020
+// arentClass's open year : 2000
 ```
