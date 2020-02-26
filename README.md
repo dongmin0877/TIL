@@ -27,6 +27,7 @@
 - [Private, Setter and Getter](java/private-setter-and-getter.md)
 - [About Inheritance](java/about-inheritance.md)
 - [About features of inheritance](java/about-features-of-inheritance.md)
+- [Inner and Anonymous class](java/inner-and-anonymous-class.md)
 
 ### Python
 
