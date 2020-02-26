@@ -1,12 +1,8 @@
 # Inner and Anonymous Class
 
-In java, class can have another class as its member.
-
-Anonymous class enables to make code more concise.
-
 ## Inner Class
 
-If the class is a member of other class, the inner class can be also made private or protected.
+In java, class can have another class as its member. If the class is a member of other class, the inner class can be also made private or protected.
 
 ```java
 public static void main(String[] args) {
@@ -58,7 +54,7 @@ public class OuterClass {
 
 ## Anonymous Class :memo:
 
-Anonymous class enables to declare and override a class at the same time.
+Anonymous class enables to declare and instantiate a class at the same time, therefore it makes code more concise.
 
 ```java
 public class AnonymousClass {
