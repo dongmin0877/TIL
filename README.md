@@ -19,16 +19,16 @@
 ### Java
 
 - [Java installation](java/java-installation.md)
-- [About Class](java/about-class.md)
-- [About Method](java/about-method.md)
+- [About class](java/about-class.md)
+- [About method](java/about-method.md)
 - [Object and Memory](java/object-and-memory.md)
 - [Constructor, Destructor and this keyword](java/constructor-destructor-this-keyword.md)
 - [Package and Static keyword](java/package-and-static-keyword.md)
 - [Private, Setter and Getter](java/private-setter-and-getter.md)
-- [About Inheritance](java/about-inheritance.md)
+- [About inheritance](java/about-inheritance.md)
 - [About features of inheritance](java/about-features-of-inheritance.md)
 - [Inner and Anonymous class](java/inner-and-anonymous-class.md)
-- [About Interface](java/about-interface.md)
+- [About interface](java/about-interface.md)
 - [About abstract class](java/about-abstract-class.md)
 
 ### Python
