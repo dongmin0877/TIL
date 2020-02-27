@@ -29,6 +29,7 @@
 - [About features of inheritance](java/about-features-of-inheritance.md)
 - [Inner and Anonymous class](java/inner-and-anonymous-class.md)
 - [About Interface](java/about-interface.md)
+- [About abstract class](java/about-abstract-class.md)
 
 ### Python
 
