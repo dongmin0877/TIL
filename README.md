@@ -30,6 +30,7 @@
 - [Inner and Anonymous class](java/inner-and-anonymous-class.md)
 - [About interface](java/about-interface.md)
 - [About abstract class](java/about-abstract-class.md)
+- [About lambda](java/about-lambda.md)
 
 ### Python
 
