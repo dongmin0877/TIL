@@ -31,6 +31,7 @@
 - [About interface](java/about-interface.md)
 - [About abstract class](java/about-abstract-class.md)
 - [About lambda](java/about-lambda.md)
+- [About string class](java/about-string-class.md)
 
 ### Python
 
