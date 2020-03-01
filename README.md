@@ -33,6 +33,7 @@
 - [About lambda](java/about-lambda.md)
 - [About string class](java/about-string-class.md)
 - [About collection](java/about-collection.md)
+- [About exception](java/about-exception.md)
 
 ### Python
 
