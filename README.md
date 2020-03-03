@@ -35,6 +35,7 @@
 - [About collection](java/about-collection.md)
 - [About exception](java/about-exception.md)
 - [About input and output](java/about-input-and-output.md)
+- [About network](java/about-network.md)
 
 ### Python
 
