@@ -40,7 +40,7 @@
 
 ### Spring boot
 
-- [Spring boot install](spring-boot/spring-boot-installation.md)
+- [Spring boot installation](spring-boot/spring-boot-installation.md)
 
 ### Python
 
