@@ -10,6 +10,7 @@
 ## :sparkles: Categories
 
 * [Java](#java)
+* [Spring boot](#spring-boot)
 * [Python](#python)
 * [AWS](#aws)
 * [DATABASE](#database)
@@ -36,6 +37,10 @@
 - [About exception](java/about-exception.md)
 - [About input and output](java/about-input-and-output.md)
 - [About network](java/about-network.md)
+
+### Spring boot
+
+- [Spring boot install](spring-boot/spring-boot-installation.md)
 
 ### Python
 
