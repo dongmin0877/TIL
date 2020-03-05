@@ -37,7 +37,7 @@ $ ./catalina stop
 
 ## Zip
 
-Using ![zip file](https://tomcat.apache.org/download-90.cgi)
+Using [zip file](https://tomcat.apache.org/download-90.cgi)
 
 ```shell
 # move to usr directory
