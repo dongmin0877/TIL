@@ -42,6 +42,7 @@
 
 - [Spring boot installation](spring-boot/spring-boot-installation.md)
 - [Tomcat installation](spring-boot/tomcat-installation.md)
+- [Servlet mapping](spring-boot/servlet-mapping.md)
 
 ### Python
 
