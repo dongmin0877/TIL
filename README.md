@@ -14,6 +14,7 @@
 * [Python](#python)
 * [AWS](#aws)
 * [DATABASE](#database)
+* [Linux](#linux)
 
 ---
 
@@ -63,3 +64,6 @@
 
 - [Basic commands](database/basic-command.md)
 - [utf8 encoding error solution](database/mysql-encoding-issue.md)
+
+### Linux
+
