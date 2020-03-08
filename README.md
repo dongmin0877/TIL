@@ -13,7 +13,7 @@
 * [Spring boot](#spring-boot)
 * [Python](#python)
 * [AWS](#aws)
-* [DATABASE](#database)
+* [Database](#database)
 * [Linux](#linux)
 
 ---
@@ -60,7 +60,7 @@
 
 - [Django Deploy using ec2](aws/django-deploy.md)
 
-### DATABASE
+### Database
 
 - [Basic commands](database/basic-command.md)
 - [utf8 encoding error solution](database/mysql-encoding-issue.md)
