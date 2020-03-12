@@ -58,7 +58,7 @@ while (fahr <= upper) {
 
 If it is true, the body of the loop is executed. Then the condition is re-started, and if true, the body is executed until condition being false.
 
-## %
+## Format specifier
 |Format specifier|Descriptions|
 |---|:---|
 |`%d`|print as decimal integer|
