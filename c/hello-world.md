@@ -1,4 +1,4 @@
-# Hello World
+# Hello World :baby_chick:
 
 ```c
 #include <stdio.h>
