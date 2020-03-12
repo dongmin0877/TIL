@@ -9,6 +9,7 @@
 
 ## :sparkles: Categories
 
+* [C](#c)
 * [Java](#java)
 * [Spring boot](#spring-boot)
 * [Python](#python)
@@ -17,6 +18,10 @@
 * [Linux](#linux)
 
 ---
+
+### C
+
+- [Hello world](c/hello-world.md)
 
 ### Java
 
