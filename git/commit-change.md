@@ -23,19 +23,19 @@ This command changes multiple commits from HEAD. (In this case, 3)
 ```shell
 $ git rebase -i HEAD~3
 
-# Change `pick` to `edit`
+# Change 'pick' to 'edit'
 ...
 pick 0df3242 1
 eidt 32dfs0e 2
 pick 0342gd3 3
 ...
 
-# Enter `!wq` to save
+# Enter '!wq' to save
 
 $ git commit --amend
 $ git rebase --continue
 
-Successfully rebased and updated ~.
+Successfully rebased and updated
 
 $ git push -f
 ```

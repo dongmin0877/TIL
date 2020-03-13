@@ -80,4 +80,4 @@
 
 ### Git
 
-- [Commit Change](git/commit-change.md)
+- [Commit change](git/commit-change.md)
