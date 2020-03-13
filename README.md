@@ -16,6 +16,7 @@
 * [AWS](#aws)
 * [Database](#database)
 * [Linux](#linux)
+* [Git](#git)
 
 ---
 
@@ -76,3 +77,7 @@
 - [Kernel](linux/kernel.md)
 - [System call](linux/system-call.md)
 - [API and ABI](linux/api-and-abi.md)
+
+### Git
+
+- [Commit Change](git/commit-change.md)
