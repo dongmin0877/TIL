@@ -82,3 +82,4 @@
 ### Git
 
 - [Commit change](git/commit-change.md)
+- [LF error](git/LF-error.md)
