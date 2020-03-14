@@ -24,6 +24,7 @@
 
 - [Hello world](c/hello-world.md)
 - [Variables and Arithmetic Expression](c/variables-and-arithmetic.md)
+- [For statement](c/for-statement.md)
 
 ### Java
 
