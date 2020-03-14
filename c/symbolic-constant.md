@@ -1,8 +1,8 @@
 # Symbolic constant
 
-A #define line defines a symbolic name or symbolic constant to be a particular string of characters.
+A `#define` line defines a symbolic name or symbolic constant to be a particular string of characters.
 
-## #define name replacement text
+## `#define name replacement text`
 
 any occurrence of name will be replaced by the corresponding replacement text.
 
