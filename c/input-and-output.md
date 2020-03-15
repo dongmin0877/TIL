@@ -17,16 +17,16 @@ main()
 
 This example is a program that copies its input to its output one character at a time.
 
-## `getchar()`
+## getchar()
 
 `getchar` reads the next input character from a text stream and returns that as its value.
 
-## `putchar()`
+## putchar()
 
 `putchar` prints a character each time it is called.
 
 
-## `EOF`
+## EOF
 
 `EOF` is  `"end of file"`. EOF is an integer defined in <stdio.h>.
 
