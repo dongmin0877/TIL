@@ -26,6 +26,7 @@
 - [Variables and Arithmetic Expression](c/variables-and-arithmetic.md)
 - [For statement](c/for-statement.md)
 - [Symbolic constant](c/symbolic-constant.md)
+- [Input and Output](c/input-and-output.md)
 
 ### Java
 
