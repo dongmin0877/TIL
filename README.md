@@ -27,6 +27,7 @@
 - [For statement](c/for-statement.md)
 - [Symbolic constant](c/symbolic-constant.md)
 - [Input and Output](c/input-and-output.md)
+- [Counting](c/counting.md)
 
 ### Java
 
