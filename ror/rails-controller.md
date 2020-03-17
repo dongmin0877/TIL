@@ -70,3 +70,19 @@ end
 
     Action method handles requests from clients. Controller class can create one or more action methods. All you have to do is declare action method as a `public`. If you want to hide the method, declare it as a `private`.
 
+## Routing
+
+Add route to `/config/routes.rb`.
+
+```ruby
+Rails.application.routes.draw do
+  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
+  match ':controller(/:action(/:id))', via: [ :get, :post, :patch ]
+end
+```
+
+`:controller(/:action(/:id))` URL example (It's not apt to RESTful)
+
+* `http://localhost:3000/books`
+* `http://localhost:3000/hello/index`
+* `http://localhost:3000/blog/show/108`
