@@ -54,7 +54,9 @@
 ### RoR
 - [Ruby on Rails Setting](ror/ruby-on-rails-setting.md)
 - [Create Rails project](ror/create-rails-project.md)
-- [Rails controller](ror/rails-controller.md)
+- [Controller in Rails](ror/controller-in-rails.md)
+- [View in Rails](ror/view-in-rails.md)
+- [Model in Rails](ror/model-in-rails.md)
 
 ### Spring boot
 
