@@ -52,7 +52,9 @@
 - [About network](java/about-network.md)
 
 ### RoR
-- [Setting](ror/ruby-on-rails-setting.md)
+- [Ruby on Rails Setting](ror/ruby-on-rails-setting.md)
+- [Create Rails project](ror/create-rails-project.md)
+- [Rails controller](ror/rails-controller.md)
 
 ### Spring boot
 
