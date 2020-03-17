@@ -11,6 +11,7 @@
 
 * [C](#c)
 * [Java](#java)
+* [RoR](#RoR)
 * [Spring boot](#spring-boot)
 * [Python](#python)
 * [AWS](#aws)
@@ -49,6 +50,9 @@
 - [About exception](java/about-exception.md)
 - [About input and output](java/about-input-and-output.md)
 - [About network](java/about-network.md)
+
+### RoR
+- [Setting](ror/ruby-on-rails-setting.md)
 
 ### Spring boot
 
