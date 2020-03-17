@@ -1,5 +1,7 @@
 # RoR setting :package:
 
+Install dependency for ruby and RoR
+
 ```shell
 $ sudo apt-get update
 $ sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev software-properties-common libffi-dev
@@ -26,7 +28,7 @@ $ exec $SHELL
 Install Ruby and add to rbenv
 
 ```shell
-$ rbenv install 2.7.0 $$ rbenv rehash
+$ rbenv install 2.7.0 && rbenv rehash
 $ rbenv global 2.7.0
 ```
 
@@ -47,14 +49,14 @@ $ gem install bundler
 Install dependency
 
 ```shell
-$ curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+$ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 $ sudo apt-get install -y nodejs
 ```
 
 Install Rails and add to rbenv
 
 ```shell
-$ gem install rails -v 6.0.2 $$ rbenv rehash
+$ gem install rails -v 6.0.2 && rbenv rehash
 ```
 
 Check rails version
