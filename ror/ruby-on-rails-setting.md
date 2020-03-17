@@ -42,12 +42,6 @@ Install ruby library
 $ gem install bundler
 ```
 
-## `configure: error: no acceptable C compiler found in $PATH`
-
-```shell
-$ sudo apt-get install gcc
-```
-
 ## RoR installation :rocket:
 
 Install dependency
@@ -68,4 +62,8 @@ Check rails version
 ```shell
 $ rails -v
 ```
+## :wrench: configure: error: no acceptable C compiler found in $PATH
 
+```shell
+$ sudo apt-get install gcc
+```
