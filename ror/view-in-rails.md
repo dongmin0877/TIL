@@ -4,7 +4,7 @@ In MVC, the final output is based on the use of `ERB(Embedded Ruby)`. ERB is a s
 
 ## Create template variable
 
-`hell_controller.rb`
+`hello_controller.rb`
 ```ruby
 class HelloController < ApplicationController
   ...
