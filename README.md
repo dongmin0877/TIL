@@ -57,6 +57,7 @@
 - [Controller in Rails](ror/controller-in-rails.md)
 - [View in Rails](ror/view-in-rails.md)
 - [Model in Rails](ror/model-in-rails.md)
+- [Scaffolding](ror/scaffolding.md)
 
 ### Spring boot
 
