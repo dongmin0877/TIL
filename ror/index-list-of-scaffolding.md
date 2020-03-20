@@ -100,13 +100,13 @@ The code in `books/index.html.erb` is associated with the `books#index` action. 
 
 Above code can be replaced like below.
 
-```html
+```ruby
 <%= link_to "External link", "http://www.rubyonrails.org/", target: "_blank", rel: "nofollow" %>
 ```
 
 You can also create a confirmation box, such as the following code.
 
-```html
+```ruby
 <%= link_to 'Destroy', book, method: :delete, data: { confirm: 'Are you sure?' } %>
 ```
 
