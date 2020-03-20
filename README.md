@@ -58,6 +58,7 @@
 - [View in Rails](ror/view-in-rails.md)
 - [Model in Rails](ror/model-in-rails.md)
 - [Scaffolding](ror/scaffolding.md)
+- [Index list of scaffolding](ror/index-list-of-scaffolding.md)
 
 ### Spring boot
 
