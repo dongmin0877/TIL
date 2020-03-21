@@ -30,6 +30,7 @@
 - [Input and Output](c/input-and-output.md)
 - [Counting](c/counting.md)
 - [Array](c/array.md)
+- [Function](c/function.md)
 
 ### Java
 
