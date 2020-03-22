@@ -1,6 +1,6 @@
 # Function in C
 
-A function provides a convenient way to encapsulate some computation, which can be used without worrying about its implementation.
+A function provides a convenient way to encapsulate some task, which can be used without worrying about its implementation.
 
 ```c
 #include <stdio.h>

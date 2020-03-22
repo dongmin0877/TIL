@@ -12,4 +12,4 @@ main()
 }
 ```
 
-The for statement is a loop, a generalization of the `while`. For statement more clear than while loop. The first part, the initialization. `fahr = 0`. The second part is the test or condition that controls the loop. `fahr <= 300`. This condition is evaluated. Then last one `fahr = fahr + 20` is increment step. The loop is terminated if the condition has become false.
+The for statement is a loop, a generalization of the `while`. For statement more compact than while loop. The first part, `fahr = 0`, the initialization. The second part, `fahr <= 300`, is a condition that controls the loop. This condition is evaluated. Then, `fahr = fahr + 20` is increment step. The loop is terminated when the condition has become false.

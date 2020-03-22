@@ -8,16 +8,19 @@
 
 main()
 {
-  long nc;
+  long char_n;
 
-  nc = 0;
+  char_n = 0;
   while (getchar() != EOF)
-    ++nc;
-  printf("%ld\n", nc);
+    ++char_n;
+  printf("%ld\n", char_n);
 }
 ```
 
-The statement `++nc` presents ++ operator, which means increment by one. It could be replaced nc = nc + 1, but ++nc is more concise and often more efficient. There is a corresponding operator -- to decrement by one.
+Press `Ctrl + D` you can check char_n.
+
+The statement `++char_n` presents `++ operator`, which means increment by one. It could be replaced `char_n = char_n + 1`, but ++char_n is more compact and efficient. There is also a `-- operator` to decrement by one.
+
 
 ## Line Counting
 
@@ -26,14 +29,14 @@ The statement `++nc` presents ++ operator, which means increment by one. It coul
 
 main()
 {
-  int c, nl;
+  int c, line_n;
 
-  nl = 0;
+  line_n = 0;
   while ((c = getchar()) != EOF)
     if (c == '\n')
-      ++nl;
-  printf("%d\n", nl);
+      ++line_n;
+  printf("%d\n", line_n);
 }
 ```
 
-A character written between single quotes represents an integer value equal to the numerical value of the character in the machine's character set. So, `'\n'` is a character constant.
+A character written between `single quotes` represents an integer value of the character in the machine's character set. So, `'\n'` is a character constant.

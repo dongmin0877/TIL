@@ -26,11 +26,11 @@ main()
 
 ## comment
 
-/* and */ are ignored by the compiler. comment be used to make a program easier to understand.
+/* and */ are ignored by the compiler. Comment be used to make a program easier to understand and read.
 
 ## declare
 
-In C, all variables must be declared before they are used, usually at the beginning of the function before any executable statements. It consists of a type name and a list of variables, such as
+In C, all variables must be declared before they are used, usually at the beginning of the function before any executable statements. It consists of a type name and a list of variables.
 
 ```c
 int fahr, celsius;
@@ -56,7 +56,7 @@ while (fahr <= upper) {
 }
 ```
 
-If it is true, the body of the loop is executed. Then the condition is re-started, and if true, the body is executed until condition being false.
+If result of condition is true, the body of the while loop is executed. Until condition being false, the statement is executed.
 
 ## Format specifier
 |Format specifier|Descriptions|

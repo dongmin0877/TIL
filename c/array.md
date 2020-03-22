@@ -1,6 +1,6 @@
 # Array
 
-There are twelve categories of input, so it is convenient to use an `array` to hold the number of occurrences of each digit, rather than ten individual variables.
+There are twelve categories of input, so it is convenient to use an `array` to treat a lot of types.
 
 ```c
 #include <stdio.h>
@@ -37,7 +37,7 @@ main()
 int ndigit[10];
 ```
 
-It declares an array of 10 integers. Array always start at 0 in C, so the elements are ndigit[0], ndigit[1], ndigit[2] ..., ndigit[9].
+It declares an array of 10 integers. Array's index always start at `0` in C, so the elements are ndigit[0], ndigit[1], ndigit[2] ..., ndigit[9].
 
 ```c
 for (i = 0; i < 10; ++i)

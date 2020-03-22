@@ -15,7 +15,7 @@ main()
 }
 ```
 
-This example is a program that copies its input to its output one character at a time.
+This example is a program that copies its input to output one character at a time.
 
 ## getchar()
 
@@ -30,9 +30,11 @@ This example is a program that copies its input to its output one character at a
 
 `EOF` is  `"end of file"`. EOF is an integer defined in <stdio.h>.
 
+In order to emulate `EOF` press `Ctrl + D`.
+
 ---
 
-If the assignment of a character to c is put inside the test part of a while loop, the copy program can be written this way.
+Another way to read characters.
 
 ```c
 #include <stdio.h>
@@ -46,4 +48,5 @@ main()
 
 }
 ```
-The `while` gets a character, assigns it to c, and then tests whether the character was the end-of-file signal.
+
+The `while` gets a character, assigns it to c, and then tests whether the character was the EOF signal.

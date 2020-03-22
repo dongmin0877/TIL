@@ -15,12 +15,11 @@ On the UNIX system you must create the program as a `".c"`, such as `"hello.c"`,
 cc hello.c
 ```
 
-Compiler makes an executable file called a.out. If you run a.out by typing the command. It will print
-`"hello, world"`
+Compiler makes an executable file called `"a.out"`. If you run `a.out` (Type `./a.out` in terminal). It will print `"hello, world"` 
 
 ## #include <stdio.h>
 
-It tells the compiler to include information about the standard input/output library.
+It tells the compiler to include information about the `standard input/output library`.
 
 ## main()
 
@@ -32,7 +31,7 @@ statements of main are enclosed in `{}` braces.
 `main()` calls library function `printf` to print.
  `\n` represents the newline character.
 
-Following code produces identical output.
+Following code returns identical output.
 
 ```c
 #include <stdio.h>
