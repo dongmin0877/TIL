@@ -31,6 +31,7 @@
 - [Counting](c/counting.md)
 - [Array](c/array.md)
 - [Function](c/function.md)
+- [Arguments - Call by Value](c/arguments-call-by-value.md)
 
 ### Java
 
