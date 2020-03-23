@@ -32,6 +32,7 @@
 - [Array](c/array.md)
 - [Function](c/function.md)
 - [Arguments - Call by Value](c/arguments-call-by-value.md)
+- [Switch statement](c/switch-statement.md)
 
 ### Java
 
