@@ -31,6 +31,14 @@ y = &ip;
 ip = &z[0]
 ```
 
+There are a lot of way to declare a pointer. :memo:
+
+```c
+int* ip;
+int * ip;
+int *ip;
+```
+
 Following code increments *ip by 5.
 
 ```c
