@@ -34,6 +34,7 @@
 - [Arguments - Call by Value](c/arguments-call-by-value.md)
 - [Switch statement](c/switch-statement.md)
 - [Break and Continue](c/break-and-continue.md)
+- [Pointers and Addresses](c/pointers-and-addresses.md)
 
 ### Java
 
