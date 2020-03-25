@@ -35,6 +35,7 @@
 - [Switch statement](c/switch-statement.md)
 - [Break and Continue](c/break-and-continue.md)
 - [Pointers and Addresses](c/pointers-and-addresses.md)
+- [Pointers and Function Arguments](c/pointers-and-function-arguments.md);
 
 ### Java
 
