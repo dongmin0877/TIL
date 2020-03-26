@@ -11,18 +11,19 @@
 
 * [C](#c)
 * [Java](#java)
+* [Python](#python)
+* [SQL](#sql)
 * [RoR](#RoR)
 * [Spring boot](#spring-boot)
-* [Python](#python)
-* [AWS](#aws)
+* [Algorithms](#algorithms)
 * [Database](#database)
 * [Linux](#linux)
+* [AWS](#aws)
 * [Git](#git)
 
 ---
 
 ### C
-
 - [Hello world](c/hello-world.md)
 - [Variables and Arithmetic Expression](c/variables-and-arithmetic.md)
 - [For statement](c/for-statement.md)
@@ -38,7 +39,6 @@
 - [Pointers and Function Arguments](c/pointers-and-function-arguments.md)
 
 ### Java
-
 - [Java installation](java/java-installation.md)
 - [About class](java/about-class.md)
 - [About method](java/about-method.md)
@@ -58,6 +58,13 @@
 - [About input and output](java/about-input-and-output.md)
 - [About network](java/about-network.md)
 
+### Python
+- [Python installation](python/python-installation.md)
+- [First-class citizen](python/first-class-citizen.md)
+
+### SQL
+
+
 ### RoR
 - [Ruby on Rails Setting](ror/ruby-on-rails-setting.md)
 - [Create Rails project](ror/create-rails-project.md)
@@ -68,38 +75,27 @@
 - [Index list of scaffolding](ror/index-list-of-scaffolding.md)
 
 ### Spring boot
-
 - [Spring boot installation](spring-boot/spring-boot-installation.md)
 - [Tomcat installation](spring-boot/tomcat-installation.md)
 - [Servlet mapping](spring-boot/servlet-mapping.md)
 - [Servlet request response](spring-boot/servlet-request-response.md)
 
-### Python
-
-- [Python installation](python/python-installation.md)
-- [First-class citizen](python/first-class-citizen.md)
-
 ### Algorithms
-
 - [Euclidean Algorithm](algorithms/euclidean-algorithm.md)
 - [Binary Search](algorithms/binary-search.md)
 
-### AWS
-
-- [Django Deploy using ec2](aws/django-deploy.md)
-
 ### Database
-
 - [Basic commands](database/basic-command.md)
 - [utf8 encoding error solution](database/mysql-encoding-issue.md)
 
 ### Linux
-
 - [Kernel](linux/kernel.md)
 - [System call](linux/system-call.md)
 - [API and ABI](linux/api-and-abi.md)
 
-### Git
+### AWS
+- [Django Deploy using ec2](aws/django-deploy.md)
 
+### Git
 - [Commit change](git/commit-change.md)
 - [LF error](git/LF-error.md)
